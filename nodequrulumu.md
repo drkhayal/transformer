@@ -14,6 +14,12 @@ Yaddaş: 50 GB az olmamaqla və NVME protokol dəstəyi;
 ```bash
 tmux new -s nodeadi
 ```
+```bash
+mkdir tfsc 
+```
+```bash
+cd tfsc
+```
 
 * ttfsc_v0.6.0_a318309_devnet sonuncu versiyanı yükləyirik
 

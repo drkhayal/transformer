@@ -1,0 +1,15 @@
+
+<h1 align="center"> Transformers node qurulumu  </h1>
+
+Əgər daha öncə qurmusunuzsa "ttfsc_x.y.z_devnet и/или ttfsc_x.y.z_testnet" , "config.json" faylını və "data.DB" papkasını silirik. Cert papkasına əl vurmuruq. 
+
+* ttfsc_v0.6.0_a318309_devnet sonuncu versiyanı yükləyirik
+
+```bash
+wget -q fastcdn.uscloudmedia.com/transformers/test/ttfsc_v0.6.0_a318309_devnet
+```
+* fayla icazə veririk. 
+
+```bash
+chmod +x ttfsc_v0.6.0_a318309_devnet
+```

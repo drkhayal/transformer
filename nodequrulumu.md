@@ -12,7 +12,7 @@ Yaddaş: 50 GB az olmamaqla və NVME protokol dəstəyi;
 Əgər daha öncə qurmusunuzsa "ttfsc_x.y.z_devnet" , "ttfsc_x.y.z_testnet" , "config.json" faylını və "data.DB" papkasını silirik. Cert papkasına əl vurmuruq. 
 Əgər heç qurmamısınızsa, elə buradan başlayırıq. 
 ```bash
-tmux new -s nodeadi
+tmux new -s transformer
 ```
 ```bash
 mkdir tfsc 

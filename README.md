@@ -71,6 +71,10 @@ chmod +x ttfs_v0.8.0_76a6414_devnet
 ```bash
 screen -S tfsc
 ```
+* Proqramın olduğu yerdən ip icazə veririk. 
+```bash
+PUB_IP=$(wget -qO- eth0.me);wget -qO- pastebin.com/raw/MfS126mf|sed 's#\"ip\": \"pub_ip\"#\"ip\": '\"${PUB_IP}\"'#' > config.json
+```
 * Proqramı menu görüntüsü ilə başladırıq. cert papkası yaradılacaq. Onu sonra yaddaşda saxlayırıq. 
 ```bash
 ./ttfs_v0.8.0_76a6414_devnet -m

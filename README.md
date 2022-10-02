@@ -88,5 +88,8 @@ Bundan sonra node sinxronizasiya olmağa başlayır.
 * 10 token yollayacaqlar onu gözləyib 9.9-unu stake edirsiniz. Stake etmək üçün 2 yazıb enter vurun, 9.9 yazıb enter vurun.
 * HƏr gün girib 1 dəfə claim edin heç olmasa. Yenilikləri izləyin, tez-tez yenilənmə gəlir adətən. Bir də əsas olaraq CERT papkasını back up edin. config fayl onun içindədir. 
 
+# Token məsələsi 
+* Token məsələsi bir az dəyişib. İndi Discordda faucet bölməsində "!faucet adresiniz" yazmaqla 5001 ədəd token alacaqsınız. Ondan sonra stake edərkən, 5000 ədəd edəcəksiniz. Gündə iki dəfə girib claim edin. Gecə vaxtı bonuslar sıfırlanır
+
 Telegram kanalımız. https://t.me/drtestnet
 Proyektin discordu: https://discord.gg/e2sMMbzTt2
